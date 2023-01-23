@@ -4,4 +4,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Ikomom](https://github.com/ikomom)
+[MIT](./LICENSE) License © 2023 [Ikomom](https://github.com/ikomom)
